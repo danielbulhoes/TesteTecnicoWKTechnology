@@ -1,6 +1,6 @@
 # Teste Técnico WKTechnology
 
-Desenvolvido utilizando a versão Delphi 10.3 - Rio.<br>
+Desenvolvido em 05/10/2022 utilizando a versão Delphi 10.3 - Rio.<br>
 Server: Console Application - FireDAC / PostgreSQL 14: porta 8080<br>
 Client: VCL Form Application - FireDAC / RESTConnection<br>
 
